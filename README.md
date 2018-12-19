@@ -1,0 +1,1 @@
+Code and original idea from https://github.com/bnb/bitandbang.

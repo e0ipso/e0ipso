@@ -1,0 +1,18 @@
+{
+  "name": "e0ipso",
+  "version": "0.0.0-development",
+  "description": "A personal card for Mateu Aguiló Bosch (@e0ipso)",
+  "bin": {
+    "e0ipso": "./bin/card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e0ipso/e0ipso.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^2.1.0",
+    "chalk": "^2.4.1"
+  }
+}
