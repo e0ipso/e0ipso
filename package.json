@@ -1,6 +1,6 @@
 {
   "name": "e0ipso",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "description": "A personal card for Mateu Aguiló Bosch (@e0ipso)",
   "bin": {
     "e0ipso": "./bin/card.js"
